@@ -1,0 +1,13 @@
+javascript--Find Duplicate    == > https://jsfiddle.net/pepn2m0q/
+
+javascript--document-write()  == > https://jsfiddle.net/ja2tLw9b/
+
+javascript--jSON iteration    == > https://jsfiddle.net/nenqdzca/
+
+javascript--prompt & username == > https://jsfiddle.net/nzn00fkb/
+
+javascript--Moduls operation  == > https://jsfiddle.net/9chmk7py/
+
+javascript--grade compute     == > https://jsfiddle.net/hmjct1nr/
+
+javascript--Madlib Game       == > https://jsfiddle.net/wfd7bhux/
